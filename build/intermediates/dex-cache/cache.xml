@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/opt/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_12fcc08fd0e6f888bc52d2907b60feab03c58eca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.6.1_f92f97aa05365aa6fa7ddfe4ae9de465a5377982/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.6.1_debf27a421697c01dd178dfcbbacdf22d4741e64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_c37855ce5ec3fdeb418c716ab811fa35077b7a21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.6.1_fa60860a2eaacf8bc0d3f9155a23a17c644f3a20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.19_089b50a718473dd661e7e01a908f2c003b4424de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a76a6983a23788b3689524d4bed763955afbd306">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.6.1_0aeed2f51ff04f27d54a4725dbaf4bfebfc43f59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.6.1_7f088c1cfd4ab964c9a99df5b3d87666bd6f2ada/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_df19c038056c6b40a43e8419878dadb42da4ac0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.6.1_1db12cd12f79d4d83a3659cab4eb9710a1e0e677/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.6.1_5b22ee58eb0355d89e920c958377e278a963577f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_4a0caeb23cbc08f97e019bba79c334175860963a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.6.1_ec22ad4d965a4f4b45697f481f27af975dbf4d39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.6.1_13bbc30f62d88d2b137cdd5c28d57108c4c8d290/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/4.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="95b97c30c8331619a9cc560ba9c3adb806e00ead">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.paolorotolo-appintro-4.0.0_c3da4b0238fe6c918c4666749fa30252dfac43ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.1_341b4209996f593a08c21d933388b93f85875655/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="518adc52081d41724932b41bc132e4d50a352b86">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.6.1_b2a4b378b0480a44823aa9a509e1a45bbe79bf77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_49b134cf837fcd979de213b3ed101e0201d780e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.1_85b0bca1004554754fed7f15dc85f8ed737787e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.6.1_6bad3739e5c446a4b6a5215ddccbaf059572f951/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.6.1_40ca9ef874bcb2e69b540576c79129c2f3e01c4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.6.1_58e3603821d36204bba5ec17019a6f3a77ec2fab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.6.1_19ba27527c5dfab2ee78099e04bdfff7b0a8d954/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_a782244c52498e4153cde2792a1d14e12a687992/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/19.0/6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9/guava-19.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-19.0_7d91b76f8051dfe0a804f2654602da41e13fc69c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_b21d73e3ba63b444c0c4efaf2402a1b3f2ab2fb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.6.1_377b4dec92f1949bd1c9986b652756f3d2bd05ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_35c9daa1a18a8217f4acc6ce0fc4b337b1a212ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.6.1_c0e24ee25bccfe0db8d16516d7516c66164528d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.1.0_203b6f99603b3866a508f3ab8176c2db2be00d47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.6.1_c19289f0d2a8cf1b0237fa8d97aa0f76cf0a3d7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.1_da680e5167083c1498cf83e78b2167f5f2199eeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.6.1_11e2e27227faf59363c7c115e4152207ce4df61f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.6.1_5b60793dce6692df00632f4f28e1856930205ee7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_ccf6f5f0d800bbae569cc34d539735f7148bba65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.6.1_9b40cee4387d8e0854415123f3b0924be42ec09f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.6.1_349dd73b3c396081dc88801c3eb88cd5c350fa72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_2f454a4bd02c4c8db9572d88b7c8418cd0580531/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.6.1_3153d4b92467624a015c9d3672d646635d1f5cec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.6.1_ef7b7eb7a70508dc5cd102f0cd0fffb32997eda3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.6.1_27a9694f92a84cb795cb3e68bba9080353a0b412/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.6.1_51f301acbd69b973774c4ada632baefaa012c0d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.6.1_50882341657139cadac268c6a6368b31680f0175/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a136366045678579300d161de97c2211c4c4f7a0">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.6.1_7627b02acd60cb9db1f6c9d0d55e85ede97cc33c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.6.1_a6162af255a9229e0860bd9e84906a5ba706fa71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.6.1_3c8a3ba22c23740daee1e5e34faadc2887261b12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.6.1_adee10953e59ff8b83b74299a91a80dcdc708507/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.basgeekball/awesome-validation/1.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cb21c44f04a700d3a9f7376d4753ea848e5832c4">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.basgeekball-awesome-validation-1.3_22afb2d2fa760ad822d30dc9523e0cb90b068dbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_82c59198abb6b225af0ca1973537827e7731f8b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.6.1_312aa5f388eeb5fee77d703b231e66e3ea465477/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.6.1_d554d7bafebcee4ca0e8e177cb1bd0a3e2cfb978/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.6.1_c06a24ca383728a1672c12d38d7a9854541190ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_eef8dfa8fb027500e4bf37ee7ff380e510425f36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f329036a48002510296cd7b61bb71c99de84b2e1">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f12851f907d5198f437230f8f5116b70f053d7ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.6.1_85092823cc91e1f951b8bb61f5afd957b99071bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f8db47be01cbe8cfa81e9cecce5ff1371ed1ad95">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.6.1_b016d751700f102e8941575e95701bbec506189b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="babb25794a7599069d34705038744c5760a9a88c">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.6.1_d338381481b5bd7a4ca6c156fbca5b76c60550d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_26cbd97a58c0a1d8bf00b536340847084553fc6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ab0eb78e3f2f2249b9ecfd958ffb3399a669a998">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b09f3db0fa0252cf013e36974fe6aebfc3bba9e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.1_ca133fd053e56d00c92155b2be3054af4338a6e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_cac043d3e18441eea242803c1ed3029cbd886645/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.6.1_2f033d525fb6820a2d1f553d728003e5b40477a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.6.1_d2d3181b85d67059b34b4327b69ceb57717e8e09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.6.1_b1dd985bc200ec3db89c5d03c33f0a2c0b78d061/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.6.1_3929d8e61cd0d26d510ab549dfd1977c79358e11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.6.1_5ce9148c6c95a84fc790045b41f70b3937accd0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.6.1_6198def0727b363399ac209e76adb550fa59be7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_1f4621dd44dcc6c5998e09a3cb501d3e936f36e1/classes.dex" />
+    </item>
+
+</items>

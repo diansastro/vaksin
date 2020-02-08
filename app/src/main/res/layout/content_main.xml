@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.ghost.vaksin.MainActivity"
+    tools:showIn="@layout/app_bar_main"
+    android:background="#b6b4b4"
+    android:id="@+id/snackbar1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        tools:ignore="UselessParent">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Order Vaksin"
+            android:id="@+id/btnOrder"
+            android:clickable="true"
+            android:onClick="order"
+            android:drawableTop="@drawable/order68"
+            android:layout_gravity="center_horizontal" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ambil Antrian"
+            android:onClick="booking"
+            android:clickable="true"
+            android:id="@+id/button9"
+            android:drawableTop="@drawable/antri68"
+            android:layout_gravity="center_horizontal" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Info Vaksinasi"
+            android:id="@+id/btnBooking"
+            android:drawableTop="@drawable/jadwal68"
+            android:clickable="true"
+            android:onClick="jadwal"
+            tools:ignore="HardcodedText" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/editText12"
+            android:layout_gravity="center_horizontal"
+            android:hint="Riwayat Vaksinasi"
+            android:textAlignment="center"
+            android:editable="false"
+            android:clickable="false"/>
+
+    </LinearLayout>
+</RelativeLayout>
+

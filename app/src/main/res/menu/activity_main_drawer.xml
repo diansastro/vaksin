@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/camera68"
+            android:title="Tambahkan Foto"
+            />
+        <item
+            android:id="@+id/person"
+            android:icon="@drawable/person68"
+            android:title="Profil" />
+        <item
+            android:id="@+id/booking"
+            android:icon="@drawable/antri68"
+            android:title="Booking Antrian" />
+        <item
+            android:id="@+id/order"
+            android:icon="@drawable/order68"
+            android:title="Order Vaksin"/>
+        <item
+            android:id="@+id/dokter"
+            android:icon="@drawable/dokter68"
+            android:title="Info Dokter" />
+        <item
+            android:id="@+id/lokasi"
+            android:icon="@drawable/location68"
+            android:title="Lokasi" />
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/logout68"
+            android:title="Log Out"/>
+    </group>
+
+    <item android:title="Lain Lain">
+        <menu>
+            <item
+                android:id="@+id/laporakan"
+                android:icon="@drawable/testimoni"
+                android:title="Testimoni" />
+            <item
+                android:id="@+id/tentang"
+                android:icon="@drawable/ic_action_about"
+                android:title="Tentang Developer" />
+            <item
+                android:id="@+id/shareApp"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share Aplikasi" />
+        </menu>
+    </item>
+
+</menu>

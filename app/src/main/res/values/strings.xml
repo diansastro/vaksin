@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Rumah Vaksin dr.Bob</string>
+    <string name="app_">Vaksin</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_lokasi" translatable="false">Map</string>
+    <string name="welcome">Vaksin</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="nameerror">Masukan Nama yang Valid</string>
+    <string name="emailerror">Masukan email yang Valid</string>
+    <string name="mobileerror">Masukan no Hp yang Valid</string>
+
+    <string name="skip">Selamat datang di Rumah Vaksin</string>
+    <string name="longDescIntro1">Inovasi baru melakukan Vaksinasi</string>
+    <string name="longDescIntro2">Memudahkan Anda melakukan Vaksinasi secara teratur,
+                                  Baik Vaksinasi di rumah maupun di Rumah Vaksin</string>
+    <string name="longDescIntro3">  Memberikan Jadwal Vaksin sesuai dengan Umur
+                                    dan juga Riwayat Vaksinasi </string>
+
+    <string name="judulVaksin"> Info Penggunaan Vsksin </string>
+
+    <string name="vaksinA"> Vaksin Polio</string>
+    <string name="vaksinB"> Vaksin Campak</string>
+    <string name="vaksinC"> Vaksin MMR</string>
+    <string name="vaksinD"> Vaksin Hepatitis B</string>
+    <string name="vaksinE"> Vaksin DPT</string>
+    <string name="vaksinF"> Vaksin BCG</string>
+
+    <string name="vaksin1"> Kami merekomandasikan Vaksinasi BCG</string>
+    <string name="vaksin2"> Kami merekomandasikan Vaksinasi Campak</string>
+    <string name="vaksin3"> Kami merekomandasikan Vaksinasi DPT</string>
+    <string name="vaksin4"> Kami merekomandasikan Vaksinasi Hepatitis</string>
+    <string name="vaksin5"> Kami merekomandasikan Vaksinasi MMR</string>
+    <string name="vaksin6"> Kami merekomandasikan Vaksinasi Polio</string>
+
+
+    <string name="polio"> Ini adalah jenis vaksinasi yang pemberiannya melalui oral (mulut) dan manfaat imunisasi polio ini untuk mencegah penyakit polio yang dapat menyebabkan kelumpuhan atau kecacatan. Imunisasi diberikan sebanyak 4 kali, yaitu saat bayi lahir hingga berusia 6 bulan.
+            \n\nHarga: Rp 87.000 (Belum termasuk Konsultasi dan Ongkos Kirim)
+    </string>
+
+    <string name="campak"> Tujuan pemberian imunisasi campak ini adalah mencegah penyakit campak. Campak dapat menyebabkan komplikasi.Pemberiannya hanya sekali saja yaitu pada saat anak berusia 9 bulan. Pemberiannya dapat diulang pada saat anak masuk SD atau mengikuti program BIAS (Bulan Imunisasi Anak Sekolah) yang dicanangkan pemerintah.
+            \n\nHarga: Rp 155.000 (Belum termasuk Konsultasi dan Ongkos Kirim)
+    </string>
+
+    <string name="dpt"> Diberikan dalam rangka pencegahan terjadinya penyakit Difteri, Pertusis dan Tetanus. Penyakit Difteri dapat menyebabkan pembengkakan dan penyumbatan pernafasan, serta mengeluarkan racun yang dapat melemahkan otot jantung. Penyakit Pertusis yang disebut juga dengan batuk rejan,dalam kondisi berat bisa turun ke bawah menyebabkan terjadinya pneumonia. Kuman Tetanus mengeluarkan racun yang menyerang syaraf otot tubuh, sehingga otot menjadi kaku, sulit bergerak dan bernafas. Imunisasi DPT diberikan pada bayi lebih dari 6 minggu, vaksinnya dapat diberikan bersamaan dengan vaksin Hepatitis B. Ulangan DPT diberikan pada usia 18 bulan dan 5 tahun. Dan usia 12 tahun diberikan vaksin TT melalui program BIAS (Bulan Imunisasi Anak Sekolah).
+            \n\nHarga: Rp 811.000 (Belum termasuk Konsultasi dan Ongkos Kirim)
+    </string>
+
+    <string name="hepatitis"> Pemberian vaksinasi hepatitis B ini berguna serta bermanfaat dalam rangka untuk mencegah virus Hepatitis B yang dapat menyerang dan merusak hati dan bila hal itu terus terjadi sampai si anak dewasa akan bisa menyebabkan timbulnya penyakit kanker hati di usia mudanya.
+            \n\nHarga: Rp 120.000 (Belum termasuk Konsultasi dan Ongkos Kirim)
+    </string>
+
+    <string name="mmr"> Melindungi tubuh dari virus campak, gondok, dan rubella (campak Jerman). Campak pada anak selain demam dan kemerahan di kulit, dapat memberikan komplikasi diare dan juga infeksi paru-paru. Gondongan pada anak di bawah 17 tahun dapat menghasilkan infertilitas di masa dewasanya sehingga sulit memiliki keturunan. Rubella adalah campak jerman, jika terkena pada bayi dan anak, efeknya mirip dengan campak.MMR dapat dicegah dengan vaksin MMR. Vaksin ini aman dan tidak menyebabkan autisme. Diberikan pada usia 15 bulan, dan diulang saat anak berusia 6 tahun. Bisa diberikan pada umur 12 bulan, jika belum mendapat campak di usia 9 bulan. Dengan kata lain, imunisasi campak waktu berusia 9 bulan bisa dilewat dan digantikan dengan MMR pada usia 12 bulan.
+            \n\nHarga: Rp 205.000 (Belum termasuk Konsultasi dan Ongkos Kirim)
+    </string>
+
+    <string name="bcg"> Pemberian vaksinasi BCG (Bacillus Celmette-Guerin) dan juga imunisasi BCG ini bermanfaat dan berguna dalam rangka untuk mencegah timbulnya penyakit TBC berat (TBC otak, TBC tulang dan TBC milier). Dilakukan sekali pada bayi sebelum usia 3 bulan. Biasanya dilakukan bila bayi berusia 1 bulan. Bila bayi telah berusia lebih dari 3 bulan dan belum mendapat imunisasi BCG maka harus dilakukan uji tuberkulin untuk mengetahui apakah bayi sudah terpapar bakteri TBC. Imunisasi bisa diberikan bila hasil tes tuberkulin negatif.
+            \n\nHarga: Rp 200.000 (Belum termasuk Konsultasi dan Ongkos Kirim)
+    </string>
+
+    <string name="dokter1"> Demam berdarah, malaria, tifus, hingga cacingan untuk sekarang ini paling banyak ditangani oleh dokter-dokter anak yang mendalami hal ini. Sekalipun begitu keahlian mereka sangat luas, Semua yang berurusan dengan infeksi, mereka inilah ahlinya.
+            \n\nHarga: Rp 87.000 (Belum termasuk Konsultasi dan Ongkos Kirim)
+    </string>
+
+
+    <string name="dokter2"> Dulu spesialisasi ini bernama gizi. Sekarang, permasalahan penyakit metabolik bawaan, khususnya inborn errors of metabolism juga termasuk dalam penanganan bidang ini, karena itu namanya berubah menjadi nutrisi metabolik, selain permasalahan gizi yang paling utama mereka kuasai inborn errors metabolism pun mereka dalami.</string>
+
+    <string name="dokter3"> Permasalahan seputar jantung hingga saluran pembuluh darah, kelainan jantung bawaan. Dari mengatasi kebocoran katup pada jantung anak hingga melakukan tindakan preventif supaya di masa dewasa atau tua tak terkena serangan jantung.</string>
+    <string name="dokter4"> Ahli dalam bidang pencernaan dan hati anak</string>
+
+
+</resources>

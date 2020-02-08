@@ -1,0 +1,217 @@
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:39
+-keep class android.support.multidex.MultiDexApplication { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:80
+-keep class com.example.ghost.vaksin.Booking1 { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:66
+-keep class com.example.ghost.vaksin.DefaultIntro { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:105
+-keep class com.example.ghost.vaksin.Images { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:108
+-keep class com.example.ghost.vaksin.JenisVaksin { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:102
+-keep class com.example.ghost.vaksin.Laporkan { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:53
+-keep class com.example.ghost.vaksin.Login { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:101
+-keep class com.example.ghost.vaksin.Lokasi { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:48
+-keep class com.example.ghost.vaksin.MainActivity { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:83
+-keep class com.example.ghost.vaksin.Order { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:86
+-keep class com.example.ghost.vaksin.Profil { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:71
+-keep class com.example.ghost.vaksin.Register { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:74
+-keep class com.example.ghost.vaksin.Reset { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:57
+-keep class com.example.ghost.vaksin.Splashscreen { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:77
+-keep class com.example.ghost.vaksin.dokter { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:130
+-keep class com.google.android.gms.ads.AdActivity { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:134
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:137
+-keep class com.google.android.gms.appinvite.PreviewActivity { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:126
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:117
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:115
+-keep class com.google.android.gms.cast.framework.ReconnectionService { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:112
+-keep class com.google.android.gms.cast.framework.media.MediaIntentReceiver { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:114
+-keep class com.google.android.gms.cast.framework.media.MediaNotificationService { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:147
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:192
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:187
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:201
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:174
+-keep class com.google.android.gms.tagmanager.TagManagerPreviewActivity { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:169
+-keep class com.google.android.gms.tagmanager.TagManagerService { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:152
+-keep class com.google.firebase.crash.internal.service.FirebaseCrashReceiverService { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:155
+-keep class com.google.firebase.crash.internal.service.FirebaseCrashSenderService { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:221
+-keep class com.google.firebase.iid.FirebaseInstanceIdInternalReceiver { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:206
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:228
+-keep class com.google.firebase.iid.FirebaseInstanceIdService { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:162
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(...); }
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:236
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(...); }
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/294fe9104c054d8f549d71836c54f90a/res/layout/design_navigation_item.xml:17
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
+
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/294fe9104c054d8f549d71836c54f90a/res/layout/design_navigation_menu.xml:17
+-keep class android.support.design.internal.NavigationMenuView { <init>(...); }
+
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/src/main/res/layout/app_bar_main.xml:11
+-keep class android.support.design.widget.AppBarLayout { <init>(...); }
+
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/294fe9104c054d8f549d71836c54f90a/res/layout/design_bottom_sheet_dialog.xml:17
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/src/main/res/layout/app_bar_main.xml:2
+-keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
+
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/src/main/res/layout/activity_main.xml:16
+-keep class android.support.design.widget.NavigationView { <init>(...); }
+
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/294fe9104c054d8f549d71836c54f90a/res/layout/design_layout_snackbar.xml:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
+
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/src/main/res/layout/activity_main.xml:2
+-keep class android.support.v4.widget.DrawerLayout { <init>(...); }
+
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/944a790e9cb1c9ec7da88c4568d54b4f/res/layout/abc_alert_dialog_material.xml:75
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/944a790e9cb1c9ec7da88c4568d54b4f/res/layout/abc_alert_dialog_button_bar_material.xml:39
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-24.0.0.aar/a7943b38eda30f8df868ce121b77b264/res/layout/mr_volume_control.xml:41
+-keep class android.support.v7.app.MediaRouteExpandCollapseButton { <init>(...); }
+
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-24.0.0.aar/a7943b38eda30f8df868ce121b77b264/res/layout/mr_volume_control.xml:33
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-24.0.0.aar/a7943b38eda30f8df868ce121b77b264/res/layout/mr_controller_volume_item.xml:43
+-keep class android.support.v7.app.MediaRouteVolumeSlider { <init>(...); }
+
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-24.0.0.aar/a7943b38eda30f8df868ce121b77b264/res/layout/mr_controller_material_dialog_b.xml:86
+-keep class android.support.v7.app.OverlayListView { <init>(...); }
+
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/944a790e9cb1c9ec7da88c4568d54b4f/res/layout/abc_action_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/944a790e9cb1c9ec7da88c4568d54b4f/res/layout/abc_expanded_menu_layout.xml:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/944a790e9cb1c9ec7da88c4568d54b4f/res/layout/abc_popup_menu_item_layout.xml:17
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/944a790e9cb1c9ec7da88c4568d54b4f/res/layout/abc_list_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/944a790e9cb1c9ec7da88c4568d54b4f/res/layout/abc_screen_toolbar.xml:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/944a790e9cb1c9ec7da88c4568d54b4f/res/layout/abc_screen_toolbar.xml:43
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/944a790e9cb1c9ec7da88c4568d54b4f/res/layout/abc_action_mode_bar.xml:19
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/944a790e9cb1c9ec7da88c4568d54b4f/res/layout/abc_screen_toolbar.xml:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/944a790e9cb1c9ec7da88c4568d54b4f/res/layout/abc_action_menu_layout.xml:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/944a790e9cb1c9ec7da88c4568d54b4f/res/layout/abc_activity_chooser_view.xml:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/944a790e9cb1c9ec7da88c4568d54b4f/res/layout/abc_alert_dialog_button_bar_material.xml:18
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/944a790e9cb1c9ec7da88c4568d54b4f/res/layout/abc_screen_content_include.xml:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/944a790e9cb1c9ec7da88c4568d54b4f/res/layout/abc_alert_dialog_material.xml:48
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/944a790e9cb1c9ec7da88c4568d54b4f/res/layout/abc_screen_simple_overlay_action_mode.xml:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/944a790e9cb1c9ec7da88c4568d54b4f/res/layout/abc_screen_simple.xml:17
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/944a790e9cb1c9ec7da88c4568d54b4f/res/layout/abc_dialog_title_material.xml:22
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/944a790e9cb1c9ec7da88c4568d54b4f/res/layout/abc_search_view.xml:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.6.1.aar/b7ba93dd0d2b9ce6f459d7623b31a198/res/layout/cast_expanded_controller_activity.xml:21
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/src/main/res/layout/app_bar_main.xml:16
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/944a790e9cb1c9ec7da88c4568d54b4f/res/layout/abc_screen_toolbar.xml:36
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/944a790e9cb1c9ec7da88c4568d54b4f/res/layout/abc_screen_simple_overlay_action_mode.xml:32
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/944a790e9cb1c9ec7da88c4568d54b4f/res/layout/abc_screen_simple.xml:25
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/appintro-4.0.0.aar/53510801b519a1643ab84347be225014/res/layout/intro_layout2.xml:12
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/appintro-4.0.0.aar/53510801b519a1643ab84347be225014/res/layout/intro_layout.xml:7
+-keep class com.github.paolorotolo.appintro.AppIntroViewPager { <init>(...); }
+
+# Referenced at /Users/gHost/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.6.1.aar/b7ba93dd0d2b9ce6f459d7623b31a198/res/layout/cast_help_text.xml:2
+-keep class com.google.android.gms.cast.framework.internal.featurehighlight.HelpTextView { <init>(...); }
+
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/src/main/res/layout/activity_lokasi.xml:6
+-keep class com.google.android.gms.maps.SupportMapFragment { <init>(...); }
+
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/src/main/res/layout/nav_header_main.xml:21
+-keep class de.hdodenhof.circleimageview.CircleImageView { <init>(...); }
+
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/src/main/res/layout/activity_login.xml:42
+-keepclassmembers class * { *** Login(...); }
+
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/src/main/res/layout/activity_register.xml:138
+-keepclassmembers class * { *** Register(...); }
+
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/src/main/res/layout/activity_login.xml:75
+-keepclassmembers class * { *** Tentang(...); }
+
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/src/main/res/layout/activity_detail_vaksin.xml:23
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/src/main/res/layout/activity_detail_dokter.xml:23
+-keepclassmembers class * { *** back(...); }
+
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/src/main/res/layout/activity_order.xml:59
+-keepclassmembers class * { *** bayar(...); }
+
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/src/main/res/layout/content_main.xml:36
+-keepclassmembers class * { *** booking(...); }
+
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/src/main/res/layout/intro4.xml:37
+-keepclassmembers class * { *** getStarted(...); }
+
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/src/main/res/layout/content_main.xml:46
+-keepclassmembers class * { *** jadwal(...); }
+
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/src/main/res/layout/activity_profil.xml:127
+-keepclassmembers class * { *** kembali(...); }
+
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/src/main/res/layout/activity_laporkan.xml:39
+-keepclassmembers class * { *** laporkan(...); }
+
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/src/main/res/layout/content_main.xml:26
+-keepclassmembers class * { *** order(...); }
+
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/src/main/res/layout/activity_login.xml:88
+-keepclassmembers class * { *** registerOnClick(...); }
+
+# Referenced at /Users/gHost/AndroidStudioProjects/vaksin/app/src/main/res/layout/activity_login.xml:64
+-keepclassmembers class * { *** resetOnClick(...); }
+

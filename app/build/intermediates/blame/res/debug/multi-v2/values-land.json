@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/gHost/AndroidStudioProjects/vaksin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/gHost/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.6.1.aar/b7ba93dd0d2b9ce6f459d7623b31a198/res/values-land/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "243,335,426,525",
+                        "endColumns": "91,90,98,94",
+                        "endOffsets": "330,421,520,615"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "328,420,511,610",
+                        "endColumns": "91,90,98,94",
+                        "endOffsets": "415,506,605,700"
+                    }
+                },
+                {
+                    "source": "/Users/gHost/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/294fe9104c054d8f549d71836c54f90a/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "13",
+                        "startColumns": "4",
+                        "startOffsets": "933",
+                        "endLines": "16",
+                        "endColumns": "12",
+                        "endOffsets": "1110"
+                    }
+                },
+                {
+                    "source": "/Users/gHost/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/944a790e9cb1c9ec7da88c4568d54b4f/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/Users/gHost/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-24.0.0.aar/a7943b38eda30f8df868ce121b77b264/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,130,208",
+                        "endColumns": "74,77,74",
+                        "endOffsets": "125,203,278"
+                    },
+                    "to": {
+                        "startLines": "10,11,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "705,780,858",
+                        "endColumns": "74,77,74",
+                        "endOffsets": "775,853,928"
+                    }
+                }
+            ]
+        }
+    ]
+}

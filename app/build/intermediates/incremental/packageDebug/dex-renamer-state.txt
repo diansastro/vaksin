@@ -1,0 +1,7 @@
+#Fri Dec 02 11:33:50 WITA 2016
+base.0=/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b09f3db0fa0252cf013e36974fe6aebfc3bba9e9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f12851f907d5198f437230f8f5116b70f053d7ab/classes.dex
+base.1=/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f12851f907d5198f437230f8f5116b70f053d7ab
+file.0=/home/ghost/AndroidStudioProjects/Skripsi/Vaksin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b09f3db0fa0252cf013e36974fe6aebfc3bba9e9/classes.dex
